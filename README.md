@@ -1,0 +1,2 @@
+-> when running this program, type in the search bar 'localhost/myGuest.php' and click enter
+-> if you encounter an error in the program, make sure the you create a database in localhost/phpmyadmin>create-new-database
